@@ -14,7 +14,7 @@ Classify images as:
 - Real Faces: 995 images
 
 ## Live Model
-https://teachablemachine.withgoogle.com/models/z4tWQyPRp/
+[https://teachablemachine.withgoogle.com/models/z4tWQyPRp/](https://teachablemachine.withgoogle.com/models/z4tWQyPRp/)
 
 ## Results
 See the uploaded screenshots for sample predictions.
